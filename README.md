@@ -67,7 +67,7 @@ A TaskRabbit-style platform that connects customers with verified service provid
 **AI:** OpenAI API · Anthropic Claude API
 **Tools:** Git · GitHub · Vercel · Sentry · Google Analytics · Search Console
 **Platform:** RBAC · 2FA · push/SMS notifications · subscriptions and wallets · Resend · Sentry
-**Design:** Figma · Adobe XD · Photoshop · Illustrator
+**Design:** Figma · Photoshop · Illustrator
 
 ---
 
