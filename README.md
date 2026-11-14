@@ -67,5 +67,3 @@ I also do motion graphics and videography. I made the promo ads for Martiva myse
 
 ▶️ [Watch the Martiva promo video](https://youtu.be/BHE9lThmI2o)
 
-![GitHub stats](https://vercel.app)
-
