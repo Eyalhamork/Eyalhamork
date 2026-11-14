@@ -38,7 +38,7 @@ An ERP-style platform for an offshore oil & gas support, supply and manning comp
 - Automated quote and job-application pipelines
 - AI assistant built on Claude Haiku that answers customer questions from company documentation
 
-### [LIB-Merchant](https://lib-merchant.vercel.app/landing): POS and inventory for Liberian shops
+### [LIB-Merchant](https://lib-merchant.vercel.app/landing): POS and inventory for Liberian shops (demo)
 [Repo](https://github.com/Eyalhamork/lib-merchant)
 
 A cloud point-of-sale system for small retailers, built to keep working without a connection.
@@ -48,12 +48,12 @@ A cloud point-of-sale system for small retailers, built to keep working without 
 - **Staff management:** PIN login, role-based permissions and performance tracking
 - **Customer credit tracking,** low-stock alerts, and daily sales and profit-margin reports
 
-### [Lucky Pharmacy](https://pharmacy-platform-rho.vercel.app): online pharmacy
-`Next.js` `TypeScript` · [Repo](https://github.com/Eyalhamork/pharmacy-platform)
+### [Pharmacy Platform](https://pharmacy-platform-rho.vercel.app): online pharmacy (demo)
+`Next.js` `TypeScript` `Supabase` · [Repo](https://github.com/Eyalhamork/pharmacy-platform)
 
-E-commerce for a Monrovia pharmacy: a categorized catalog, prescription-medicine filtering, cart and checkout with MTN Mobile Money or cash on delivery, and order tracking.
+Pharmacy e-commerce: a categorized catalog, prescription-medicine filtering, cart and checkout with MTN Mobile Money or cash on delivery, and order tracking.
 
-### [LiberiaFix](https://liberiafix.vercel.app): services marketplace
+### [LiberiaFix](https://liberiafix.vercel.app): services marketplace (demo)
 A TaskRabbit-style platform that connects customers with verified service providers across Liberia. It's built as an installable mobile web app.
 
 ---
