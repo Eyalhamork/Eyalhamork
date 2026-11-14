@@ -71,9 +71,14 @@ A TaskRabbit-style platform that connects customers with verified service provid
 
 ---
 
+## 🎮 Currently building
+
+A fun-packed military runner game for mobile, built with Godot.
+
+---
+
 ## 🎬 Beyond code
 
 I also do motion graphics and videography. I made the promo ads for Martiva myself.
 
 ▶️ [Watch the Martiva promo video](https://youtu.be/BHE9lThmI2o)
-
