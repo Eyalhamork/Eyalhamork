@@ -38,6 +38,16 @@ An ERP-style platform for an offshore oil & gas support, supply and manning comp
 - Automated quote and job-application pipelines
 - AI assistant built on Claude Haiku that answers customer questions from company documentation
 
+### [LIB-Merchant](https://lib-merchant.vercel.app/landing): POS and inventory for Liberian shops
+[Repo](https://github.com/Eyalhamork/lib-merchant)
+
+A cloud point-of-sale system for small retailers, built to keep working without a connection.
+
+- **Offline mode:** sales continue offline and sync automatically when the connection returns
+- **Smart POS:** split payments across MTN MoMo, Orange Money and cash, plus discounts and real-time stock updates
+- **Staff management:** PIN login, role-based permissions and performance tracking
+- **Customer credit tracking,** low-stock alerts, and daily sales and profit-margin reports
+
 ### [Lucky Pharmacy](https://pharmacy-platform-rho.vercel.app): online pharmacy
 `Next.js` `TypeScript` · [Repo](https://github.com/Eyalhamork/pharmacy-platform)
 
